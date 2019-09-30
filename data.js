@@ -12,7 +12,15 @@ const emojiItems = [
         emojiImgs: "😈👩🏻‍🦳👠👩🏻👗👛",
         genres: ["drama", "comedy","romance"],
         year: 2003
-    },{
+    },
+    {
+        title: "Evil Under the Sun",
+        author: "Agatha Christie",
+        emojiImgs: "😈🔽☀",
+        genres: ["drama", "crime","mystery"],
+        year: 1941
+    },
+    {
         title: "Fight Club",
         author: "Chuck Palahniuk",
         emojiImgs: "👨🚬👊💣♣🌆",
